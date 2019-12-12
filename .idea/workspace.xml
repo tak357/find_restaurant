@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca92f108-deac-49c4-9fe9-808d40a37f8a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Services/Gurunavi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ecsite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ecsite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/BuyController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/BuyController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/buy/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/buy/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/LineBotController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/LineBotController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +67,9 @@
       </path>
     </expand>
     <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ecsite" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -162,6 +171,11 @@
       <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
       <path value="$PROJECT_DIR$/vendor/sebastian/type" />
       <path value="$PROJECT_DIR$/vendor/linecorp/line-bot-sdk" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
     </include_path>
   </component>
   <component name="ProjectId" id="1UX7u6CWPjQ5pa4CwbngqZ1iObn" />
@@ -204,7 +218,9 @@
       <updated>1575491306117</updated>
       <workItem from="1575491310566" duration="27467000" />
       <workItem from="1575891197423" duration="2974000" />
-      <workItem from="1575905506613" duration="953000" />
+      <workItem from="1575905506613" duration="1805000" />
+      <workItem from="1575999073402" duration="9000" />
+      <workItem from="1575999106756" duration="7904000" />
     </task>
     <servers />
   </component>
