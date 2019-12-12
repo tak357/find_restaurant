@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca92f108-deac-49c4-9fe9-808d40a37f8a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Services/Gurunavi.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ecsite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ecsite.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/LineBotController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/LineBotController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -220,7 +214,7 @@
       <workItem from="1575891197423" duration="2974000" />
       <workItem from="1575905506613" duration="1805000" />
       <workItem from="1575999073402" duration="9000" />
-      <workItem from="1575999106756" duration="7904000" />
+      <workItem from="1575999106756" duration="12789000" />
     </task>
     <servers />
   </component>

@@ -17,4 +17,5 @@ use Illuminate\Http\Request;
 //    return $request->user();
 //});
 
-Route::post('/parrot', 'LineBotController@parrot');
+//Route::post('/parrot', 'LineBotController@parrot');
+Route::post('/restaurants', 'LineBotController@restaurants');
