@@ -10,3 +10,7 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+/public/calc.php
+/tests/test_example2-7-1-1.php
+/tests/test_example2-7-1-2.php
+/tests/phpunit.xml

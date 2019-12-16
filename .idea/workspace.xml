@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca92f108-deac-49c4-9fe9-808d40a37f8a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/LineBotController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/LineBotController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Services/RestaurantBubbleBuilder.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Services/RestaurantBubbleBuilder.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -214,7 +216,8 @@
       <workItem from="1575891197423" duration="2974000" />
       <workItem from="1575905506613" duration="1805000" />
       <workItem from="1575999073402" duration="9000" />
-      <workItem from="1575999106756" duration="12789000" />
+      <workItem from="1575999106756" duration="14414000" />
+      <workItem from="1576416006035" duration="12423000" />
     </task>
     <servers />
   </component>
